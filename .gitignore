@@ -1,0 +1,9 @@
+# Local CLI builds
+/bar
+/bar.exe
+
+# Go test binaries and coverage output
+*.test
+*.test.exe
+/coverage.out
+/coverage.html
